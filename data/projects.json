@@ -1,0 +1,51 @@
+[
+  {
+    "id": "seed-ecommerce-pipeline",
+    "slug": "ecommerce-sales-analytics-pipeline",
+    "title": "E-Commerce Sales Analytics Pipeline",
+    "summary": "An end-to-end ETL pipeline that ingests, cleans and loads large-scale e-commerce sales data into Snowflake, with Power BI on top and Gemini checking the output.",
+    "period": "",
+    "stat": "~40%",
+    "statLabel": "less processing time",
+    "stack": [
+      "Python",
+      "SQL",
+      "PySpark",
+      "Snowflake",
+      "Power BI",
+      "Gemini"
+    ],
+    "highlights": [
+      "Engineered an end-to-end ETL pipeline ingesting, cleaning, transforming and loading large-scale e-commerce sales data into Snowflake, cutting processing time ~40%.",
+      "Built automated data-validation and exception-handling workflows, with Power BI dashboards tracking revenue, customer segmentation and sales KPIs.",
+      "Integrated Gemini to automate data-quality checks and schema validation on ETL outputs, and used prompt engineering to auto-generate SQL queries and technical documentation."
+    ],
+    "body": "",
+    "repoUrl": "",
+    "liveUrl": "",
+    "cover": "",
+    "published": true
+  },
+  {
+    "id": "seed-smart-attendance",
+    "slug": "smart-attendance-management-system",
+    "title": "Smart Attendance Management System",
+    "summary": "Facial-recognition attendance that identifies people from a photo and handles tracking and reporting on its own.",
+    "period": "",
+    "stat": "",
+    "statLabel": "",
+    "stack": [
+      "Python",
+      "Flask"
+    ],
+    "highlights": [
+      "Built a facial-recognition attendance system with photo-based user identification, automating tracking and reporting.",
+      "Developed an admin dashboard for monitoring, report generation and user management."
+    ],
+    "body": "",
+    "repoUrl": "",
+    "liveUrl": "",
+    "cover": "",
+    "published": true
+  }
+]
