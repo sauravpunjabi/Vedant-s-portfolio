@@ -78,7 +78,7 @@ export const experience = [
     company: "GlobalLogic",
     client: "Google",
     place: "Gurugram, Haryana",
-    period: "Oct 2025 – Present",
+    period: "Oct 2025 – Sep 2026",
     points: [
       "Architected end-to-end **Medallion (Bronze/Silver/Gold) pipelines** on Databricks and GCP using PySpark, Delta Lake and BigQuery, processing **500M+ records a day**.",
       "Orchestrated and optimized **10+ production pipelines** in Python and SQL, cutting ETL processing time **~25%** and improving validation accuracy.",
